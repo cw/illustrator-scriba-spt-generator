@@ -1,6 +1,6 @@
 # Illustrator Scriba SPT Generator
 
-This Illustrator script takes the active Illustrator document and generates an SPT file for import into Scriba laser software.
+This Illustrator script takes the active Illustrator document and generates an SPT file for import into [Scriba laser software](http://www.permanentmarking.com/).
 
 ## Installation
 
