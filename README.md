@@ -18,4 +18,4 @@ Once the script is installed, you'll be able to run it by going to `File > Scrip
 ## Document Setup
 
 1. Exports document as AI legacy version 8 
-2. Layers named `zone`* are exported as AI legacy version 8
+2. Layers named `zone`* are exported as AI legacy version 8 (zone1, zone2, zone3, ...)
