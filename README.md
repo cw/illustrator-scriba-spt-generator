@@ -2,6 +2,8 @@
 
 This Illustrator script takes the active Illustrator document and generates an SPT file for import into [Scriba laser software](http://www.permanentmarking.com/).
 
+Scriba requires AI files in Illustrator version 8 format. This script first exports the whole active Illustrator document as `part.ai` followed by each layer containing the word `zone`. The script then calculates motion block coordinates for each zone and adds the matching zone.AI.
+
 ## Installation
 
 Copy the `Generate Scriba SPT.jsx` and `SCRIBA_SPT_TEMPLATE.json` files into one of the following directories:
